@@ -23,7 +23,7 @@ import com.masai.usecases.SearchAndViewSellProduct;
 import com.masai.usecases.UpdateSellerProductbyPrice;
 import com.masai.usecases.UpdateSellerProductbyQuantity;
 import com.masai.usecases.ViewRegisterBuyerList;
-import com.masai.usecases.ViewRegisterSellerList;
+
 
 public class SelectionOption1 {
 	
@@ -168,7 +168,7 @@ public void selectionChoiceBuyer() {
 			selectionChoiceAfterAdmin();
 			break;
 		case 2: 
-			ViewRegisterSellerList.viewSellerList();
+//			ViewRegisterSellerList.viewSellerList();
 			selectionChoiceAfterAdmin();
 			break;
 		case 3:
