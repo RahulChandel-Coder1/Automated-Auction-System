@@ -53,7 +53,9 @@ public class SelectionOption1 {
 			b.selectionChoiceBuyer();
 			break;
 		case 4:
-			System.out.println("Thank you");
+			System.out.println("Thankyou");
+			System.out.println("wellcomeBack again");
+			System.out.println("Designed by RahulChandel");
 			sc.close();
 			break;
 		}
